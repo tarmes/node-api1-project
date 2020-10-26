@@ -1,7 +1,7 @@
 {
   "name": "node-api1-project",
   "version": "1.0.0",
-  "description": "hello world ## Introduction",
+  "description": "node-api1-project",
   "main": "index.js",
   "scripts": {
     "server": "nodemon index.js"
